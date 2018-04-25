@@ -23,9 +23,7 @@ import com.witkey.service.UserService;
 
 @Controller
 public class UserController {
-	//test test test
 	// ×¢ÈëUserService¶ÔÏó 
-	
 	@Autowired
 	private UserService userService;
 	@Autowired
